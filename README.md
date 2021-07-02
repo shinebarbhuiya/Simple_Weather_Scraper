@@ -5,7 +5,6 @@ It is a very simple and easy to use python script which shows the current weathe
 <h2>Libraries Required :</h2>
 
 - requests
-- smtplib
 - bs4
 
 <h2>Usage: </h2>
